@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zh.shijiejob.cn/sitemap.xml
